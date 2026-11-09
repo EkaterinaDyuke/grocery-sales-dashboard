@@ -39,12 +39,21 @@
 
 Файл `Final_Project_BI.pbix` открывается в Power BI Desktop (бесплатно, [download](https://www.microsoft.com/ru-ru/power-platform/products/power-bi-desktop)).  
 
-Ниже - основные экраны дашборда:  
+***Главная страница (без срезов)***  
+![Главная страница](01_main.png)  
 
-![Главная страница](img/01_main.png)
-![Рейтинг магазинов](img/02_rating.png)
-![Карты лояльности](img/03_loyalty.png)
-![Описание](img/04_description.png)
+
+***Использование срезов***  
+![Фильтры](02_filters.png)   
+
+
+***Выбор метрик на графиках***   
+![Выбор метрик](03_metrics.png)   
+
+
+***Описание функционала дашборда***   
+![Описание](04_description.png)  
+
 
 ## Ноутбуки с исследованиями
 
